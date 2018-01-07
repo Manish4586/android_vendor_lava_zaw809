@@ -1,1 +1,0 @@
-# Iris-X8-L-Vendor_3.10.72
